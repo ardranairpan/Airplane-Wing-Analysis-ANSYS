@@ -23,4 +23,3 @@ airplane wing using ANSYS 2026 R1.
 
 
 
-![Velocity Contour](velocity.png)
